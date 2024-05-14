@@ -1,2 +1,2 @@
 # Lujain.FinalProject
-final cloud computing exam
+final cloud computing practical exam
